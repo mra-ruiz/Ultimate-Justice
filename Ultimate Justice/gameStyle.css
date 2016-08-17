@@ -1,0 +1,93 @@
+body {
+	background-color: #3D5A6C;
+	background-repeat: no-repeat;
+    background-position: right top;
+	background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.space {
+    float: left;
+    width: 100px;
+    height: 650px;
+    margin: 20px;
+    background-color:#3D5A6C;
+    text-align: center;
+    color: #3D5A6C;
+}
+
+.gameHistory {
+	overflow: auto;
+    float: left;
+    width: 400px;
+    height: 650px;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid #FF6600;
+    background-color:#293241;
+    text-align: left;
+    color: #FF6600;
+	font-size: 16px;
+}
+.prompt {
+	overflow: auto;
+    float: left;
+    width: 565px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid #FF6600;
+    background-color:#293241;
+    text-align: center;
+    color: #FF6600;
+	font-size: 20px;
+	
+}
+.history {
+	font-size: 14px;
+	color: #C7CEDB;
+}
+.buttonQ1 {
+	overflow: auto;
+    float: left;
+    width: 275px;
+    height: 240px;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid #FF6600;
+    background-color:#293241;
+    text-align: center;
+    color: #FF6600;
+	font-size: 14px;
+}
+
+.buttonQ2 {
+	overflow: auto;
+    float: left;
+    width: 275px;
+    height: 240px;
+    margin: 20px;
+    padding: 10px;
+    border: 5px solid #FF6600;
+    background-color:#293241;
+    text-align: center;
+    color: #FF6600;
+	font-size: 14px;
+}
+
+
+.boxPrompt {
+    width: 1560px;
+    height: 400px;
+    margin: 25px;
+    padding: 10px;
+    border: 5px solid #FF6600;
+    text-align: center;
+    color: #FF6600;
+	font-size: 24px;
+}
+.button:hover {
+    color: #C7CEDB;
+    background-color:#293241;
+    text-decoration: underline;
+	text-decoration-style: dotted;
+}
